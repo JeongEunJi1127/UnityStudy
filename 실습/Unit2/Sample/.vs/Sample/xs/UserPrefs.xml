@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{BBED6A60-90F4-9D15-9E1E-85E878581BE5}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/vector.cs">
+    <Files>
+      <File FileName="Assets/Test.cs" Line="12" Column="33" />
+      <File FileName="Assets/variable.cs" Line="27" Column="29" />
+      <File FileName="Assets/vector.cs" Line="13" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Sample" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="vector.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Unity" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e2c0250c-a81e-4536-b685-97b2a8933285" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
