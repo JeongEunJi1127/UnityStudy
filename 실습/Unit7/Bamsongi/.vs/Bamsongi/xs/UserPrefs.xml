@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{761CC3D8-79B2-6F0C-C51B-E3A14E29243C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/BamsongiController.cs">
+    <Files>
+      <File FileName="Assets/Script/BamsongiController.cs" Line="19" Column="23" />
+      <File FileName="Assets/Script/BamsongiGenerator.cs" Line="21" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Bamsongi" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Script" expanded="True">
+                <Node name="BamsongiController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="76feb9bb-ba5c-4f7a-9d8f-ce337259d33a" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
